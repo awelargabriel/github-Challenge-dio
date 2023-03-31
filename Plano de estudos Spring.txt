@@ -1,0 +1,13 @@
+- Revisar Java e sua sintaxe
+- Revisar Orientação a objetos em Java
+- Aprender os Fundamentos de Spring boot
+    -Ferramentas para ultilizar
+    -Bibliotecas e dependências
+    -Entender sua arquitetura e estrutura
+    -Realizar um projeto inicial básico para fixar o conhecimento
+- Aprender conceitos avançados de Spring boot
+    -Utilizar o Spring boot para criar uma aplicação completa do zero
+     conectada a um banco de dados e assim aprender conceitos mais avançados.
+    - A medida que for necessário ir aprendendo conceitos chaves do framework 
+     e como utilizar da melhor maneira.
+    - Criar uma Api com endpoints para criar um primeiro serviço Rest com Spring...
